@@ -11,7 +11,7 @@ This project is a simple React Native application created using Expo CLI. The ta
 
 ## Screenshot
 
-![Screenshot of the application](assets/blogger.jpg.jpg)
+![Screenshot of the application](assets/blogger.jpg)
 
 ## Student ID
 
